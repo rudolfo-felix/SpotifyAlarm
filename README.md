@@ -12,7 +12,7 @@ Windows:
 5. change to your paths
 6. save as run_play_spotify.bat
 
-To setup the alarm:
+To set up the alarm:
 
 7.   Create a Task on 'Task Manager' as follows on the link
 	https://www.howtogeek.com/119028/how-to-make-your-pc-wake-from-sleep-automatically/
