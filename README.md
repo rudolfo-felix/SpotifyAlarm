@@ -30,10 +30,12 @@ https://martechwithme.com/schedule-python-scripts-windows-mac/
 https://support.apple.com/guide/mac-help/set-sleep-and-wake-times-mchle41a6ccd/mac
 **************************************
 
-# IMPORTANT to run the "Spotify Alarm" your PC must be on sleep 
+# IMPORTANT 
+To run the "Spotify Alarm" your PC must be on sleep 
 	    or full ative. (I prefer to use it on sleep to 
 			  save energy)
 	   Connect to your PC your best sound sysem ;)
+
 
 # Now, you will enjoy to wake up! xD
 # https://github.com/rudolfovmf
