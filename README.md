@@ -7,6 +7,7 @@
 3. save and exit
 
 Windows:
+
 4. open make_batch
 5. change to your paths
 6. save as run_play_spotify.bat
@@ -26,7 +27,7 @@ Mac setup:
 https://martechwithme.com/schedule-python-scripts-windows-mac/
 https://support.apple.com/guide/mac-help/set-sleep-and-wake-times-mchle41a6ccd/mac
 **************************************
-#IMPORTANT#: to run the "Spotify Alarm" your PC must be on sleep 
+# IMPORTANT to run the "Spotify Alarm" your PC must be on sleep 
 	    or full ative. (I prefer to use it on sleep to 
 			  save energy)
 	   Connect to your PC your best sound sysem ;)
