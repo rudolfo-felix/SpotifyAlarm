@@ -31,7 +31,7 @@ https://support.apple.com/guide/mac-help/set-sleep-and-wake-times-mchle41a6ccd/m
 **************************************
 
 # IMPORTANT 
-To run the "Spotify Alarm" your PC must be on sleep 
+To run the "Spotify Alarm" your PC must be on sleep mode
 	    or full ative. (I prefer to use it on sleep to 
 			  save energy)
 	   Connect to your PC your best sound sysem ;)
